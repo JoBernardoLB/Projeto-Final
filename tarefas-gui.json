@@ -1,0 +1,17 @@
+[
+  {
+    "titulo": "Fazer compras",
+    "descricao": "Pão, leite, ovos",
+    "concluida": true
+  },
+  {
+    "titulo": "Terminar checkpoint",
+    "descricao": "Enviar ZIP no AVA",
+    "concluida": false
+  },
+  {
+    "titulo": "Dormir cedo",
+    "descricao": "22h",
+    "concluida": true
+  }
+]
